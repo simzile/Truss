@@ -1,0 +1,15 @@
+{
+  "number_of_total_nodes": 5,
+  "number_of_fixed_nodes": 4,
+  "number_of_rods": 4,
+  "x_for_nodes": [0, 0, 2, 2, 1],
+  "y_for_nodes": [0, 2, 2, 0, 1],
+  "z_for_nodes": [0, 0, 0, 0, 1],
+  "left_node_of_rod": [1, 2, 3, 4],
+  "right_node_of_rod": [5, 5, 5, 5],
+  "EA": [4800000, 4800000, 4800000, 4800000],
+  "location_of_loads_by_rods": [5],
+  "x_of_loads": [5],
+  "y_of_loads": [5],
+  "z_of_loads": [-10]
+}
